@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jetstream1128/Forkify/issues"
   },
-  "homepage": "https://github.com/jetstream1128/Forkify#readme"
+  "homepage": "https://github.com/jetstream1128/Forkify#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
 }
