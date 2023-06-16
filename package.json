@@ -1,0 +1,20 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetstream1128/Forkify.git"
+  },
+  "author": "Bohdan Alieksieiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetstream1128/Forkify/issues"
+  },
+  "homepage": "https://github.com/jetstream1128/Forkify#readme"
+}
