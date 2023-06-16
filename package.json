@@ -19,5 +19,8 @@
   "homepage": "https://github.com/jetstream1128/Forkify#readme",
   "devDependencies": {
     "parcel": "^2.9.2"
+  },
+  "dependencies": {
+    "sass": "^1.63.4"
   }
 }
